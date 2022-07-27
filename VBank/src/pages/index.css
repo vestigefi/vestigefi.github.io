@@ -1,0 +1,112 @@
+@font-face {
+    font-family: Josefin Sans, sans-serif;
+    src: url(/fonts/JosefinSans.ttf);
+}
+
+@font-face {
+    font-family: Prompt, sans-serif;
+    src: url(/fonts/Prompt-Light.ttf);
+}
+
+@font-face {
+    font-family: Algo;
+    src: url(/fonts/Algo.ttf);
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(/fonts/Inter-Light.ttf);
+}
+
+body {
+    font-family: Inter, Arial, sans-serif !important;
+    color: white !important;
+    background: #141414 !important;
+    overflow-x: hidden !important;
+    overflow-y: scroll !important;
+}
+
+.font-prompt {
+    font-family: Prompt, Arial, sans-serif !important;
+    font-weight: 300;
+}
+
+.font-prompt-bold {
+    font-family: Prompt, Arial, sans-serif !important;
+    font-weight: 400;
+}
+
+.font-josefin {
+    font-family: Josefin Sans, Arial, sans-serif !important;
+    font-weight: 300;
+}
+
+.font-josefin-bold {
+    font-family: Josefin Sans, Arial, sans-serif !important;
+    font-weight: 400;
+}
+
+.font-algo {
+    font-family: Algo, Arial, sans-serif !important;
+}
+
+.font-mono {
+    font-family: Roboto Mono, monospace !important;
+}
+
+#__next {
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#nprogress .bar {
+    background: #fff !important;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #00000070;
+}
+
+::-webkit-scrollbar-track {
+    background: #00000030;
+}
+
+.alert-enter {
+    opacity: 0;
+    transform: scale(0.9);
+}
+
+.alert-enter-active {
+    opacity: 1;
+    transform: translateX(0);
+    transition: opacity 150ms, transform 150ms ease-in;
+}
+
+.alert-exit {
+    opacity: 1;
+}
+
+.alert-exit-active {
+    opacity: 0;
+    transform: scale(0.9);
+    transition: opacity 150ms, transform 150ms ease-out;
+}
+
+textarea:focus, input:focus {
+    outline: none;
+}
+
+input[type='number'] {
+    -moz-appearance:textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}

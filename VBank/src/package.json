@@ -1,0 +1,48 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start",
+        "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
+        "lint-check": "eslint '*/**/*.{js,ts,tsx}'"
+    },
+    "dependencies": {
+        "@reach-sh/stdlib": "0.1.11-rc.2",
+        "@reduxjs/toolkit": "^1.6.2",
+        "algosdk": "^1.16.0",
+        "axios": "^0.23.0",
+        "dayjs": "^1.10.6",
+        "next": "12.1.6",
+        "nprogress": "^0.2.0",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-icons": "^4.2.0",
+        "react-redux": "^7.2.4",
+        "react-tiny-popover": "^7.0.1",
+        "react-transition-group": "^4.4.2",
+        "redux": "^4.1.1",
+        "sharp": "^0.30.6"
+    },
+    "devDependencies": {
+        "@types/node": "^12.12.21",
+        "@types/react": "^17.0.2",
+        "@types/react-dom": "^17.0.1",
+        "@typescript-eslint/eslint-plugin": "^4.11.1",
+        "@typescript-eslint/parser": "^4.11.1",
+        "autoprefixer": "^10.3.1",
+        "babel-plugin-import": "^1.13.3",
+        "eslint": "^7.16.0",
+        "eslint-config-next": "^11.0.1",
+        "eslint-config-prettier": "^7.1.0",
+        "eslint-plugin-prettier": "^3.3.0",
+        "eslint-plugin-react": "^7.24.0",
+        "postcss": "^8.3.6",
+        "prettier": "^2.3.2",
+        "tailwindcss": "^2.2.7",
+        "typescript": "^4.3.5"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    }
+}

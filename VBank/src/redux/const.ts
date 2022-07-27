@@ -1,0 +1,2 @@
+export const CREATE_MESSAGE = 'CREATE_MESSAGE';
+export const UPDATE_DATA = 'UPDATE_DATA';
