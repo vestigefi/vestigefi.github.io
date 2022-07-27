@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73f45750-3113-440c-8c12-eaa0b0fe4ac8" name="Changes" comment="feat: changes for new application version" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="ab7d55ccdbc08d2a974bd63828144bce822170aa" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.nojekyll" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CNAME" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VBank/src/.prettierrc.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VBank/src/contracts/index.main.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VBank/src/contracts/index.rsh" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VBank/src/next-env.d.ts" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VBank/src/next.config.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VBank/src/postcss.config.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VBank/src/tailwind.config.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VBank/src/views/HomeView/index.tsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BOdQQ4HyL0OWvHgyci9b9H2axk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/grzracz/TC/Tinychart.github.io/VBank/src/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/snap/pycharm-professional/295/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/VBank/src/public" />
+      <recent name="$PROJECT_DIR$/VBank/src/public/favicons" />
+      <recent name="$PROJECT_DIR$/VBank/src/contracts" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/VBank" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73f45750-3113-440c-8c12-eaa0b0fe4ac8" name="Changes" comment="" />
+      <created>1656781049149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656781049149</updated>
+      <workItem from="1656781051114" duration="607000" />
+      <workItem from="1656882677212" duration="4815000" />
+      <workItem from="1656927438158" duration="307000" />
+      <workItem from="1658744955714" duration="373000" />
+      <workItem from="1658776312721" duration="435000" />
+      <workItem from="1658861214136" duration="742000" />
+      <workItem from="1658950603375" duration="696000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: added files to public repo">
+      <created>1656883454203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656883454203</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: updated ids and contract">
+      <created>1656884256154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656884256154</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: added build">
+      <created>1656884424469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656884424470</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: added build">
+      <created>1656884594139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656884594139</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: added build">
+      <created>1656884726888</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656884726888</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: added build">
+      <created>1656884935712</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656884935712</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: added build">
+      <created>1656885351656</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656885351656</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: added nojekyll">
+      <created>1656886119665</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656886119665</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: added nojekyll">
+      <created>1656886424532</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656886424533</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: re-export">
+      <created>1656886904719</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1656886904719</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: added contract">
+      <created>1656887486858</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656887486858</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: changes for new application version">
+      <created>1658745175893</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658745175893</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: added files to public repo" />
+    <MESSAGE value="feat: updated ids and contract" />
+    <MESSAGE value="feat: added build" />
+    <MESSAGE value="feat: added nojekyll" />
+    <MESSAGE value="feat: re-export" />
+    <MESSAGE value="feat: added contract" />
+    <MESSAGE value="feat: changes for new application version" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: changes for new application version" />
+  </component>
+</project>
